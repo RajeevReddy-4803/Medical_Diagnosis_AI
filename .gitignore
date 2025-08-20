@@ -38,3 +38,4 @@ Thumbs.db
 # Project specific
 Models/*.sav
 *.log 
+.env
